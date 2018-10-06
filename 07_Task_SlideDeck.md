@@ -1,7 +1,7 @@
 Coursera Data Science Specialization Capstone Project
 ========================================================
 author: LeelaKrishna
-date: 2018-10-05
+date: 2018-10-06
 autosize: true
 
 The Project
@@ -61,5 +61,10 @@ Text Mining with R: A Tidy Approach
 
 Shiny App    
 "https://vleelakrishna.shinyapps.io/cdsc/"
+
+Shiny App Source Code repository on Github
+
+"https://github.com/vleela-krishna/DataScienceCapstonemaster"
+
 
 
