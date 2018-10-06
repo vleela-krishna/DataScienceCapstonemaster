@@ -1,0 +1,12 @@
+name: cdsc
+title: cdsc
+username:
+account: vleelakrishna
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 488188
+bundleId: 1621135
+url: https://vleelakrishna.shinyapps.io/cdsc/
+when: 1538594079.56411
+asMultiple: FALSE
+asStatic: FALSE
