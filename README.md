@@ -12,14 +12,10 @@ A Shiny App for predicting the next word in a string.
 
 
 
-### Project Tasks - Instructions
-  
-[Task 7: Slide Deck](07_Task.md)  
-
-
 ### Project Scripts - Solutions
 
-[Task 07: Slide Presentation](07_Task_SlideDeck-rpubs.html)  
+[Task 07: Slide Presentation]
+("http://rpubs.com/vleela_krishna/DataScienceCapstone")  
 
 
 ### References
